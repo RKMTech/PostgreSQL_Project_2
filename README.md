@@ -25,7 +25,7 @@ This is one of my projects to showcase my progress on **SQL** and my improvement
 These queries collectively aim to provide a comprehensive view of the data analyst job market, focusing on most demanded skills, most paying jobs, most paying job skill etc.
 
 Here's how I approached one of the question:
-### 1. What is the most paying skills for Data Analyst based on Salary
+### 1. What is the Top 20 most paying skills for Data Analyst based on Salary
 ```sql
 SELECT 
     Skills,
